@@ -1,0 +1,15 @@
+/opt/clion-2018.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shane/CLionProjects/osrm_dll
+-- Boost version: 1.58.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   iostreams
+--   program_options
+--   chrono
+--   date_time
+--   thread
+--   regex
+--   atomic
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/shane/CLionProjects/osrm_dll/cmake-build-debug
